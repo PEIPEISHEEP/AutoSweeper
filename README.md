@@ -1,4 +1,4 @@
-# 掃雷自動器 (Minesweeper Bot)
+# 踩地雷自動器 (AutoSweeper)
 
 本專案是一個多模組化的 Python 掃雷自動器，支援螢幕擷取、模板比對、OCR 辨識與自動推理點格。
 
