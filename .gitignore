@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.swp
+*.bak
+*.tmp
+
+# VSCode
+.vscode/
+
+# 模板資料夾
+temp2/
